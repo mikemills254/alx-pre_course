@@ -1,1 +1,1 @@
-Hello 0x01-git, this is my first self made readme
+Hello 0x01-git, I love this course
